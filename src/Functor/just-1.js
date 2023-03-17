@@ -1,0 +1,1 @@
+Maybe.of(2)         // Just(2)
